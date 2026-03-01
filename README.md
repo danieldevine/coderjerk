@@ -1,0 +1,3 @@
+# Coderjerk
+
+The blog. 

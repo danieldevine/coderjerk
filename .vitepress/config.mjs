@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Coderjerk",
   description: "Stuff about web development",
   cleanUrls: true,
-  srcExclude: ["CLAUDE.md", "README.md"],
+  srcExclude: ["README.md"],
 
   head: [
     [
