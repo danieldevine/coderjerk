@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+.vitepress/dist/
+.vitepress/cache/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+.env
