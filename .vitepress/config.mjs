@@ -42,6 +42,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               text: "The Complicated Futility of WordPress",
               link: "/blog/the-complicated-futility-of-wordpress",
             },
+            {
+              text: "Why I Wrote a Twitter Library",
+              link: "blog/bird-elephant-why-i-wrote-my-own-twitter-apiv2-library.md",
+            },
           ],
         },
       ],
