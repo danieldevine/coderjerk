@@ -26,6 +26,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       { text: "Blog", link: "/blog/" },
       // { text: "Articles", link: "/articles/" },
       { text: "About", link: "/about" },
+      { text: "Stuff", link: "/stuff" },
     ],
 
     sidebar: {

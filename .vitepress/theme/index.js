@@ -1,6 +1,7 @@
 import DefaultTheme from "vitepress/theme";
 import { h } from "vue";
 import PostMeta from "./PostMeta.vue";
+import StuffCards from "./StuffCards.vue";
 
 const GtmNoscript = {
   setup() {
@@ -23,5 +24,8 @@ export default {
       "layout-top": () => h(GtmNoscript),
       "doc-before": () => h(PostMeta),
     });
+  },
+  enhanceApp({ app }) {
+    app.component("StuffCards", StuffCards);
   },
 };

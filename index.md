@@ -10,8 +10,8 @@ hero:
       text: Read The Blog
       link: /blog/
     - theme: alt
-      text: About
-      link: /about
+      text: The Stuff
+      link: /stuff
 ---
 
 <script setup>
