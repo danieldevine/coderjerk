@@ -6,6 +6,9 @@ export default defineConfig({
   description: "Stuff about web development",
   cleanUrls: true,
   srcExclude: ["README.md"],
+  sitemap: {
+    hostname: "https://coderjerk.com",
+  },
 
   head: [
     [
