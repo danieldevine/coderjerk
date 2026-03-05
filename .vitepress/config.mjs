@@ -37,6 +37,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         {
           text: "Blog Posts",
           items: [
+            {
+              text: "Hiring Dread",
+              link: "/blog/hiring-dread",
+            },
             { text: "Introducing Icenberg", link: "/blog/icenberg" },
             {
               text: "Gifting Labour to Big Business",

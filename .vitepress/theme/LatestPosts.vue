@@ -9,17 +9,14 @@ const props = defineProps({
 <template>
   <div class="latest-posts">
     <div class="header">
-      <h2>{{ props.title }}</h2>
+      <h2 v-if="props.title">{{ props.title }}</h2>
     </div>
     <div class="posts">
-      <a
-        v-for="post in posts"
-        :key="post.url"
-        :href="post.url"
-        class="post"
-      >
+      <a v-for="post in posts" :key="post.url" :href="post.url" class="post">
         <h3>{{ post.frontmatter.title }}</h3>
-        <p v-if="post.frontmatter.description">{{ post.frontmatter.description }}</p>
+        <p v-if="post.frontmatter.description">
+          {{ post.frontmatter.description }}
+        </p>
         <time v-if="post.frontmatter.date">{{
           new Date(post.frontmatter.date).toLocaleDateString("en-US", {
             year: "numeric",
