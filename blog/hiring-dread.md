@@ -43,7 +43,7 @@ And worst of all I'll have to open f***king LinkedIn. Dread.
 
 ::: info
 Please don't send me your CV, i'm not hiring right now, but feel free to
-[discuss this post with me on GitHub Discussions](https://github.com/dandevine/coderjerk/discussions). No Recruiters.
+[discuss this post with me on GitHub Discussions](https://github.com/danieldevine/coderjerk/discussions). No Recruiters.
 :::
 
 [^1]: The Meaning of Pain.
