@@ -4,7 +4,7 @@ author: Dan Devine
 date: 2026-03-04
 description: How the hell am I going to evaluate junior developers now?
 tags:
-  - slop
+  - junior devs
   - hiring
   - web-development
   - dread
