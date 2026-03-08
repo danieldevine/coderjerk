@@ -14,7 +14,7 @@ Hiring decent web developers has been painful for as long as I've been doing it.
 The traditional flow for many years has been:
  1. Spend an hour writing a very thorough job description for a mid-level developer with a lot of detail about the technologies we use and how many of them we expect candidates to be familiar with. 
  2. Post job ad on various platforms and receive applications from junior developers, non-developers who have dabbled in crypto and assorted other non-qualified people.
- 3. Engage a recruitment agency with a detailed bried and be sent a bunch of CVs from Data Analysts with 20 years experience in R. Turn them all down and then be followed around by said recruitment agents for a decade.
+ 3. Engage a recruitment agency with a detailed brief and be sent a bunch of CVs from Data Analysts with 20 years experience in R. Turn them all down and then be followed around by said recruitment agents for a decade.
  4. Having exhausted hiring budget, turn to LinkedIn[^1] and _après, le déluge._
 
 Mid-level has been the hardest to hire as juniors apply for mid-tier jobs and mid-level apply for senior jobs, in my experience. Further complicating things is the fact that our standards for web developers are comparitively high. This might seem concieted but, outside of a handful of agencies, some horrible development practices are commonplace in my region[^2], so experienced web developers coming from these companies are well versed in jQuery but are unfamiliar with JavaScript, and skilled at installing unlicensed year-old versions of Elementor with known vulnerabilities into new site builds[^3] but not at solving problems with code. 
