@@ -38,6 +38,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           text: "Blog Posts",
           items: [
             {
+              text: "Remove Inline CSS from WordPress 7.0",
+              link: "/blog/remove-inline-css-from-wordpress-7",
+            },
+            {
               text: "Hiring Dread",
               link: "/blog/hiring-dread",
             },
