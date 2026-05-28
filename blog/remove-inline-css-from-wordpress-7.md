@@ -33,7 +33,6 @@ I've arrived at the following updated head cleaner which comprehensively cleans 
 Include this in functions.php
 
 ```php
-
 <?php
 
 // head_cleaner.php
